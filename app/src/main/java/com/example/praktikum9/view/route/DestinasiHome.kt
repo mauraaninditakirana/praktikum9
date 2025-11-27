@@ -1,7 +1,7 @@
 package com.example.praktikum9.view.route
 
 import com.example.praktikum9.R
-import com.example.praktikum9.view.DestinasiNavigasi
+import com.example.praktikum9.view.route.DestinasiNavigasi
 
 object DestinasiHome : DestinasiNavigasi {
     override val route = "home"
