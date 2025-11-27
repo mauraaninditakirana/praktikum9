@@ -1,4 +1,4 @@
-package com.example.praktikum9.route
+package com.example.praktikum9.view
 
 interface DestinasiNavigasi {
     /**
